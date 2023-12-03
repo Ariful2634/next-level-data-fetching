@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Exploring the Wilderness",
+          "description": "Embark on a thrilling adventure into the heart of untamed nature. Witness breathtaking landscapes, encounter exotic wildlife, and immerse yourself in the serenity of the great outdoors. Join us on a journey of discovery!",
+          "likesCount": 120
+        },
+        {
+          "id": 2,
+          "title": "Gourmet Delights",
+          "description": "Savor the exquisite flavors of our culinary creations. Indulge in a gastronomic experience that tantalizes your taste buds and leaves you craving for more. Join us on a culinary journey where every bite is a celebration!",
+          "likesCount": 98
+        },
+        {
+          "id": 3,
+          "title": "Mindful Meditation",
+          "description": "Escape the chaos of daily life and find inner peace through mindful meditation. Discover tranquility, balance, and rejuvenation as you embark on a journey of self-discovery and mindfulness. Embrace the present moment!",
+          "likesCount": 150
+        },
+        {
+          "id": 4,
+          "title": "Artistry Unleashed",
+          "description": "Immerse yourself in a world of creativity and expression. Explore the boundless realms of artistry, from breathtaking paintings to mesmerizing sculptures. Join us on a visual odyssey that sparks inspiration and awe!",
+          "likesCount": 87
+        },
+        {
+          "id": 5,
+          "title": "Tech Innovations Symposium",
+          "description": "Stay ahead of the curve with the latest in tech innovations. Dive into the future of technology through insightful discussions, hands-on demonstrations, and expert insights. Join the symposium and shape the future!",
+          "likesCount": 112
+        },
+        {
+          "id": 6,
+          "title": "Fitness Fusion Challenge",
+          "description": "Experience the ultimate fitness fusion that combines strength, flexibility, and endurance. Join the challenge to push your limits, achieve new milestones, and transform your body. Unleash the power within and embrace a healthier you!",
+          "likesCount": 135
+        }
+      ]
+      
+}

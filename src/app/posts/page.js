@@ -1,3 +1,4 @@
+import Link from "next/link";
 
 
 const page = async() => {
@@ -27,7 +28,7 @@ const page = async() => {
                   <p>{post.description}</p>
                   <p>Likes: {post.likesCount}</p>
                   <div className="card-actions justify-end">
-                    <button className="btn bg-gradient-to-r from-purple-500 to-blue-500">See More</button>
+                    <Link href={`/posts/${post.id}`}><button className="btn bg-gradient-to-r from-purple-500 to-blue-500 text-white">See More</button></Link>
                   </div>
                 </div>
               </div>))
